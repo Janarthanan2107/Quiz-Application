@@ -1,0 +1,56 @@
+Media Query for screen percentage :
+
+/* 100% screen */
+/* for with bookmarks screen */
+@media (min-width: 1024px) and (min-height: 587.33px) {
+  
+}
+
+/* for without bookmarks screen */
+@media (min-width: 1024px) and (min-height: 619px) {
+  
+}
+
+/* 90% screen */
+/* with bookmarks */
+@media (min-width:1300px) and (min-height: 652px) {
+  
+}
+
+/* without bookmarks */
+@media (min-width:1300px) and (min-height: 688px) {
+  
+}
+
+/* 80% screen */
+/* with bookmaark */
+@media (min-width:1500px) and (min-height: 734px) {
+
+}
+
+/* without bookmark */
+@media (min-width:1500px) and (min-height: 774px) {
+  
+}
+
+/* 75% screen */
+/* with bookmark */
+@media (min-width:1700px)  and (min-height: 783px) {
+
+}
+
+/* without bookmark */
+@media (min-width:1700px)  and (min-height: 825px) {
+
+}
+
+/* 67% screen */
+/* with bookmark */
+@media (min-width:1800px)  and (min-height: 881px) {
+
+}
+
+/* without bookmark */
+@media (min-width:1800px)  and (min-height: 929px) {
+
+}
